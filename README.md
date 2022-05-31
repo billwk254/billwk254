@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Billy Wamboo</h1>
 <h3 align="center">A passionate python developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/@nbaanony" target="blank"><img src="https://img.shields.io/twitter/follow/@nbaanony?logo=twitter&style=for-the-badge" alt="@nbaanony" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on [Random_Quiz_Generator](https://github.com/billwk254/Random_Quiz_Generator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/billwk254](https://github.com/billwk254)
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nbaanony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nbaanony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/billy kihungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billy kihungu" height="30" width="40" /></a>
 <a href="https://instagram.com/@bill_whiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bill_whiz" height="30" width="40" /></a>
 </p>
 
